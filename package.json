@@ -1,0 +1,19 @@
+{
+  "name": "express-ts-mongodb-jest-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for building REST APIs with Express, TypeScript, MongoDB, and Jest",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "mongodb",
+    "jest",
+    "boilerplate",
+    "api"
+  ],
+  "author": "Ifeora Emeka",
+  "license": "ISC"
+}
